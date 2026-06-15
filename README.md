@@ -142,7 +142,7 @@
 
 ## 📫 Connect With Me
 
-📧 Email: your-email@example.com
+📧 Email: chandrakanthota28@gmail.com
 
 🌍 Location: Bhubaneswar, Odisha, India
 
