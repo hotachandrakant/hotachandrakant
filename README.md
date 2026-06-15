@@ -27,7 +27,6 @@ focus_areas:
   - Artificial Intelligence
   - Machine Learning
   - RAG Systems
-  - Cloud Technologies
 
 currently_learning:
   - Deep Learning
