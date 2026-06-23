@@ -13,7 +13,6 @@
 ---
 
 # ⚡ SYSTEM IDENTITY
-
 ```yaml
 name: Chandrakant Hota
 role: Data Analyst & AI Engineer
