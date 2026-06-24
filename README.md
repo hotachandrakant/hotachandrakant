@@ -1,5 +1,4 @@
 <div align="center">
-
 # CHANDRAKANT HOTA
 
 ### 📊 Data Analyst | 🤖 AI Engineer | 📈 Data Science Enthusiast
